@@ -58,18 +58,18 @@ public final class Wedding {
 
   protected void inviteForBlessings(String invitee) {
     if(youAreReadingThisProgram){
-      System.out.println("You are cordially invited to our wedding");
+      console.log("You are cordially invited to our wedding");
     }
   }
 
 
 
   protected void getWeddingLocationForEngineers() {
-    System.out.println("Lats: 21.304078874193955, Longs: 76.18343500070426");
+    console.log("Lats: 21.304078874193955, Longs: 76.18343500070426");
   }
 
   protected void getWeddingLocationForHumans() {
-    System.out.println("Utsav Hotel And Resorts," +
+    console.log("Utsav Hotel And Resorts," +
         "Bahadurpura Rd," +
         "Burhanpur " +
         "Madhya Pradesh 450331" +
@@ -89,7 +89,7 @@ public final class Wedding {
   }
 
   void helpBrideAndGroomUnderstandVow(String vow) {
-    System.out.println(vow);
+    console.log(vow);
   }
 
   void bindThemForever(){

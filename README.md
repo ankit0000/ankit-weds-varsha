@@ -74,7 +74,7 @@ public final class Wedding {
         "Burhanpur " +
         "Madhya Pradesh 450331" +
         "Maps: https://www.google.com/maps/dir/26.751043,77.5504773/++21.304078874193955,+76.18343500070426/@24.0072887,74.7350762,7z/data=!3m1!4b1!4m7!4m6!1m1!4e1!1m3!2m2!1d76.183435!2d21.3040789" +
-        "Nearest Airport: Indore / Nearest Railway station : Burhanpur");
+        "Nearest Airport: Indore / Nearest Railway station : Burhanpur,India");
   }
 
 
